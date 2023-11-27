@@ -1,0 +1,46 @@
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\bin\Debug\net7.0-windows\AppKel27.exe
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\bin\Debug\net7.0-windows\AppKel27.deps.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\bin\Debug\net7.0-windows\AppKel27.runtimeconfig.json
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\bin\Debug\net7.0-windows\AppKel27.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\bin\Debug\net7.0-windows\AppKel27.pdb
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.Form1.resources
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.csproj.GenerateResource.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.AssemblyInfoInputs.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.AssemblyInfo.cs
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.csproj.CoreCompileInputs.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\refint\AppKel27.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.pdb
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.genruntimeconfig.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\ref\AppKel27.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.csproj.AssemblyReference.cache
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.csproj.CopyComplete
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.MainPage.resources
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.RegisterForm.resources
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.UserControl1.resources
+C:\Users\HP 14\Downloads\200948\7th Semester\CBSE LAB CLASS\Mod 9\tugas\AppKel27\obj\Debug\net7.0-windows\AppKel27.EditPage.resources
+D:\Program Files\Project Microsoft Studio\AppKel27\bin\Debug\net7.0-windows\AppKel27.exe
+D:\Program Files\Project Microsoft Studio\AppKel27\bin\Debug\net7.0-windows\AppKel27.deps.json
+D:\Program Files\Project Microsoft Studio\AppKel27\bin\Debug\net7.0-windows\AppKel27.runtimeconfig.json
+D:\Program Files\Project Microsoft Studio\AppKel27\bin\Debug\net7.0-windows\AppKel27.dll
+D:\Program Files\Project Microsoft Studio\AppKel27\bin\Debug\net7.0-windows\AppKel27.pdb
+D:\Program Files\Project Microsoft Studio\AppKel27\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.csproj.AssemblyReference.cache
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.EditPage.resources
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.Form1.resources
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.MainPage.resources
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.RegisterForm.resources
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.UserControl1.resources
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.csproj.GenerateResource.cache
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.AssemblyInfoInputs.cache
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.AssemblyInfo.cs
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.csproj.CoreCompileInputs.cache
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.csproj.CopyComplete
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.dll
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\refint\AppKel27.dll
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.pdb
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\AppKel27.genruntimeconfig.cache
+D:\Program Files\Project Microsoft Studio\AppKel27\obj\Debug\net7.0-windows\ref\AppKel27.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIKel27.props" />
+</Project>
